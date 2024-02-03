@@ -4,7 +4,7 @@ The `generateRandomColor` utility is a simple implementation using HTML, CSS, an
 
 ## Demo
 
-Explore the live demo [here](https://gh-rishii78.github.io/generateRandomColor/).
+Explore the live demo [here](https://rishisrivastava07.github.io/generateRandomColor/).
 
 ## Features
 
@@ -16,7 +16,7 @@ Explore the live demo [here](https://gh-rishii78.github.io/generateRandomColor/)
 
 1. **Access the Demo:**
 
-   Visit the live demo [here](https://gh-rishii78.github.io/generateRandomColor/).
+   Visit the live demo [here](https://rishisrivastava07.github.io/generateRandomColor/).
 
 2. **Generate a Random Color:**
 
